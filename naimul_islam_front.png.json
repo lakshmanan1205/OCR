@@ -1,0 +1,3088 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2026-02-20T18:13:19Z",
+	"lastUpdatedDateTime": "2026-02-20T18:13:19Z",
+	"analyzeResult": {
+		"apiVersion": "2024-11-30",
+		"modelId": "eid-front-v1",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "UNITED ARAB EMIRATES FEDERAL AUTHORITY FOR IDENTITY & CITIZENSHIP CUSTOMS & PORT SECURITY\nResident Identity Card\nالتوقيع / Signature\nالإمارات العربية المنتجة\nالإمارات العربية المتحدة الهيئة الإنحـادية للهوية والجنسية والجمارك وأمن المنافذ بطاقة هوية مقيم\nرقم الهوية / ID Number\n784-1992-2456563-2\nالاسم: نعيم الاسلام شوهان نظر الاسلام\nName: Naimul Islam Sohan Nazrul Islam Mannan\nDate of Birth :\n19/07/1992\nتاريخ الميلاد:\nالجنسية: جمهورية بنغلاديش الشعبية\nNationality: Bangladesh\nتاريخ الاصدار / Issuing Date\n27/05/2022\nتاريخ الانتهاء / Expiry Date\n26/05/2024\nUNITED ARAB EMIRATES TOTALLYTON\n19/07\nالجنس : ذكر\nSex: M",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0.043087899684906006,
+				"width": 1220,
+				"height": 770,
+				"unit": "pixel",
+				"words": [
+					{
+						"content": "UNITED",
+						"polygon": [
+							36,
+							44,
+							171,
+							45,
+							171,
+							82,
+							35,
+							81
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 0,
+							"length": 6
+						}
+					},
+					{
+						"content": "ARAB",
+						"polygon": [
+							196,
+							45,
+							295,
+							45,
+							296,
+							82,
+							196,
+							82
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 7,
+							"length": 4
+						}
+					},
+					{
+						"content": "EMIRATES",
+						"polygon": [
+							313,
+							45,
+							502,
+							44,
+							502,
+							82,
+							313,
+							82
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 12,
+							"length": 8
+						}
+					},
+					{
+						"content": "FEDERAL",
+						"polygon": [
+							39,
+							82,
+							145,
+							82,
+							145,
+							107,
+							39,
+							106
+						],
+						"confidence": 0.641,
+						"span": {
+							"offset": 21,
+							"length": 7
+						}
+					},
+					{
+						"content": "AUTHORITY",
+						"polygon": [
+							154,
+							82,
+							296,
+							82,
+							296,
+							107,
+							154,
+							107
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 29,
+							"length": 9
+						}
+					},
+					{
+						"content": "FOR",
+						"polygon": [
+							304,
+							82,
+							351,
+							82,
+							351,
+							106,
+							304,
+							107
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 39,
+							"length": 3
+						}
+					},
+					{
+						"content": "IDENTITY",
+						"polygon": [
+							359,
+							82,
+							474,
+							82,
+							474,
+							107,
+							359,
+							106
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 43,
+							"length": 8
+						}
+					},
+					{
+						"content": "&",
+						"polygon": [
+							482,
+							82,
+							501,
+							82,
+							501,
+							106,
+							482,
+							107
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 52,
+							"length": 1
+						}
+					},
+					{
+						"content": "CITIZENSHIP",
+						"polygon": [
+							40,
+							106,
+							175,
+							106,
+							175,
+							131,
+							40,
+							130
+						],
+						"confidence": 0.851,
+						"span": {
+							"offset": 54,
+							"length": 11
+						}
+					},
+					{
+						"content": "CUSTOMS",
+						"polygon": [
+							187,
+							106,
+							295,
+							106,
+							295,
+							131,
+							186,
+							131
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 66,
+							"length": 7
+						}
+					},
+					{
+						"content": "&",
+						"polygon": [
+							301,
+							106,
+							315,
+							106,
+							315,
+							131,
+							301,
+							131
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 74,
+							"length": 1
+						}
+					},
+					{
+						"content": "PORT",
+						"polygon": [
+							322,
+							106,
+							382,
+							106,
+							382,
+							131,
+							322,
+							131
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 76,
+							"length": 4
+						}
+					},
+					{
+						"content": "SECURITY",
+						"polygon": [
+							389,
+							106,
+							498,
+							107,
+							498,
+							130,
+							389,
+							131
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 81,
+							"length": 8
+						}
+					},
+					{
+						"content": "Resident",
+						"polygon": [
+							74,
+							149,
+							206,
+							149,
+							206,
+							183,
+							73,
+							183
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 90,
+							"length": 8
+						}
+					},
+					{
+						"content": "Identity",
+						"polygon": [
+							218,
+							149,
+							330,
+							149,
+							330,
+							184,
+							217,
+							183
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 99,
+							"length": 8
+						}
+					},
+					{
+						"content": "Card",
+						"polygon": [
+							339,
+							149,
+							413,
+							149,
+							413,
+							184,
+							339,
+							184
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 108,
+							"length": 4
+						}
+					},
+					{
+						"content": "التوقيع",
+						"polygon": [
+							252,
+							707,
+							330,
+							708,
+							330,
+							747,
+							252,
+							746
+						],
+						"confidence": 0.969,
+						"span": {
+							"offset": 113,
+							"length": 7
+						}
+					},
+					{
+						"content": "/",
+						"polygon": [
+							217,
+							707,
+							238,
+							707,
+							237,
+							747,
+							216,
+							746
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 121,
+							"length": 1
+						}
+					},
+					{
+						"content": "Signature",
+						"polygon": [
+							67,
+							707,
+							209,
+							707,
+							209,
+							746,
+							66,
+							745
+						],
+						"confidence": 0.972,
+						"span": {
+							"offset": 123,
+							"length": 9
+						}
+					},
+					{
+						"content": "الإمارات",
+						"polygon": [
+							630,
+							176,
+							662,
+							169,
+							665,
+							187,
+							632,
+							194
+						],
+						"confidence": 0.206,
+						"span": {
+							"offset": 133,
+							"length": 8
+						}
+					},
+					{
+						"content": "العربية",
+						"polygon": [
+							592,
+							177,
+							626,
+							176,
+							628,
+							195,
+							592,
+							196
+						],
+						"confidence": 0.176,
+						"span": {
+							"offset": 142,
+							"length": 7
+						}
+					},
+					{
+						"content": "المنتجة",
+						"polygon": [
+							558,
+							170,
+							588,
+							176,
+							588,
+							195,
+							556,
+							187
+						],
+						"confidence": 0.267,
+						"span": {
+							"offset": 150,
+							"length": 7
+						}
+					},
+					{
+						"content": "الإمارات",
+						"polygon": [
+							1020,
+							38,
+							1183,
+							39,
+							1183,
+							91,
+							1020,
+							89
+						],
+						"confidence": 0.237,
+						"span": {
+							"offset": 158,
+							"length": 8
+						}
+					},
+					{
+						"content": "العربية",
+						"polygon": [
+							862,
+							36,
+							1010,
+							38,
+							1010,
+							89,
+							863,
+							87
+						],
+						"confidence": 0.344,
+						"span": {
+							"offset": 167,
+							"length": 7
+						}
+					},
+					{
+						"content": "المتحدة",
+						"polygon": [
+							713,
+							35,
+							852,
+							36,
+							852,
+							87,
+							713,
+							87
+						],
+						"confidence": 0.181,
+						"span": {
+							"offset": 175,
+							"length": 7
+						}
+					},
+					{
+						"content": "الهيئة",
+						"polygon": [
+							1049,
+							86,
+							1182,
+							85,
+							1182,
+							112,
+							1050,
+							111
+						],
+						"confidence": 0.335,
+						"span": {
+							"offset": 183,
+							"length": 6
+						}
+					},
+					{
+						"content": "الإنحـادية",
+						"polygon": [
+							865,
+							87,
+							1044,
+							86,
+							1044,
+							111,
+							865,
+							113
+						],
+						"confidence": 0.066,
+						"span": {
+							"offset": 190,
+							"length": 10
+						}
+					},
+					{
+						"content": "للهوية",
+						"polygon": [
+							715,
+							87,
+							858,
+							87,
+							859,
+							113,
+							715,
+							113
+						],
+						"confidence": 0.18,
+						"span": {
+							"offset": 201,
+							"length": 6
+						}
+					},
+					{
+						"content": "والجنسية",
+						"polygon": [
+							1033,
+							110,
+							1183,
+							110,
+							1183,
+							139,
+							1033,
+							138
+						],
+						"confidence": 0.71,
+						"span": {
+							"offset": 208,
+							"length": 8
+						}
+					},
+					{
+						"content": "والجمارك",
+						"polygon": [
+							894,
+							109,
+							1028,
+							110,
+							1028,
+							138,
+							894,
+							137
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 217,
+							"length": 8
+						}
+					},
+					{
+						"content": "وأمن",
+						"polygon": [
+							823,
+							109,
+							886,
+							109,
+							886,
+							137,
+							823,
+							137
+						],
+						"confidence": 0.966,
+						"span": {
+							"offset": 226,
+							"length": 4
+						}
+					},
+					{
+						"content": "المنافذ",
+						"polygon": [
+							716,
+							110,
+							814,
+							109,
+							814,
+							137,
+							716,
+							137
+						],
+						"confidence": 0.975,
+						"span": {
+							"offset": 231,
+							"length": 7
+						}
+					},
+					{
+						"content": "بطاقة",
+						"polygon": [
+							1006,
+							140,
+							1083,
+							139,
+							1083,
+							184,
+							1007,
+							184
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 239,
+							"length": 5
+						}
+					},
+					{
+						"content": "هوية",
+						"polygon": [
+							936,
+							141,
+							997,
+							140,
+							998,
+							185,
+							937,
+							186
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 245,
+							"length": 4
+						}
+					},
+					{
+						"content": "مقيم",
+						"polygon": [
+							876,
+							141,
+							927,
+							141,
+							928,
+							186,
+							877,
+							187
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 250,
+							"length": 4
+						}
+					},
+					{
+						"content": "رقم",
+						"polygon": [
+							734,
+							206,
+							790,
+							206,
+							790,
+							250,
+							735,
+							250
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 255,
+							"length": 3
+						}
+					},
+					{
+						"content": "الهوية",
+						"polygon": [
+							649,
+							208,
+							726,
+							206,
+							726,
+							250,
+							649,
+							251
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 259,
+							"length": 6
+						}
+					},
+					{
+						"content": "/",
+						"polygon": [
+							627,
+							209,
+							641,
+							208,
+							641,
+							251,
+							627,
+							251
+						],
+						"confidence": 0.978,
+						"span": {
+							"offset": 266,
+							"length": 1
+						}
+					},
+					{
+						"content": "ID",
+						"polygon": [
+							454,
+							213,
+							488,
+							212,
+							487,
+							252,
+							454,
+							252
+						],
+						"confidence": 0.969,
+						"span": {
+							"offset": 268,
+							"length": 2
+						}
+					},
+					{
+						"content": "Number",
+						"polygon": [
+							500,
+							212,
+							619,
+							209,
+							619,
+							251,
+							500,
+							252
+						],
+						"confidence": 0.951,
+						"span": {
+							"offset": 271,
+							"length": 6
+						}
+					},
+					{
+						"content": "784-1992-2456563-2",
+						"polygon": [
+							431,
+							258,
+							812,
+							257,
+							812,
+							297,
+							430,
+							297
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 278,
+							"length": 18
+						}
+					},
+					{
+						"content": "الاسم:",
+						"polygon": [
+							1092,
+							303,
+							1181,
+							303,
+							1181,
+							348,
+							1093,
+							348
+						],
+						"confidence": 0.941,
+						"span": {
+							"offset": 297,
+							"length": 6
+						}
+					},
+					{
+						"content": "نعيم",
+						"polygon": [
+							1025,
+							303,
+							1083,
+							303,
+							1084,
+							348,
+							1026,
+							347
+						],
+						"confidence": 0.982,
+						"span": {
+							"offset": 304,
+							"length": 4
+						}
+					},
+					{
+						"content": "الاسلام",
+						"polygon": [
+							929,
+							302,
+							1016,
+							303,
+							1017,
+							347,
+							929,
+							348
+						],
+						"confidence": 0.941,
+						"span": {
+							"offset": 309,
+							"length": 7
+						}
+					},
+					{
+						"content": "شوهان",
+						"polygon": [
+							834,
+							303,
+							920,
+							303,
+							920,
+							348,
+							835,
+							347
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 317,
+							"length": 5
+						}
+					},
+					{
+						"content": "نظر",
+						"polygon": [
+							774,
+							303,
+							825,
+							303,
+							826,
+							347,
+							775,
+							347
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 323,
+							"length": 3
+						}
+					},
+					{
+						"content": "الاسلام",
+						"polygon": [
+							674,
+							303,
+							766,
+							303,
+							766,
+							347,
+							675,
+							348
+						],
+						"confidence": 0.974,
+						"span": {
+							"offset": 327,
+							"length": 7
+						}
+					},
+					{
+						"content": "Name:",
+						"polygon": [
+							375,
+							353,
+							481,
+							353,
+							481,
+							387,
+							375,
+							388
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 335,
+							"length": 5
+						}
+					},
+					{
+						"content": "Naimul",
+						"polygon": [
+							493,
+							353,
+							600,
+							353,
+							599,
+							388,
+							492,
+							387
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 341,
+							"length": 6
+						}
+					},
+					{
+						"content": "Islam",
+						"polygon": [
+							611,
+							353,
+							688,
+							353,
+							688,
+							388,
+							611,
+							388
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 348,
+							"length": 5
+						}
+					},
+					{
+						"content": "Sohan",
+						"polygon": [
+							700,
+							353,
+							788,
+							353,
+							788,
+							388,
+							699,
+							388
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 354,
+							"length": 5
+						}
+					},
+					{
+						"content": "Nazrul",
+						"polygon": [
+							798,
+							353,
+							894,
+							353,
+							894,
+							388,
+							798,
+							388
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 360,
+							"length": 6
+						}
+					},
+					{
+						"content": "Islam",
+						"polygon": [
+							904,
+							353,
+							983,
+							353,
+							983,
+							388,
+							904,
+							388
+						],
+						"confidence": 0.946,
+						"span": {
+							"offset": 367,
+							"length": 5
+						}
+					},
+					{
+						"content": "Mannan",
+						"polygon": [
+							993,
+							353,
+							1107,
+							353,
+							1107,
+							388,
+							993,
+							388
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 373,
+							"length": 6
+						}
+					},
+					{
+						"content": "Date",
+						"polygon": [
+							376,
+							414,
+							446,
+							414,
+							446,
+							447,
+							376,
+							448
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 380,
+							"length": 4
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							454,
+							414,
+							482,
+							414,
+							482,
+							447,
+							454,
+							447
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 385,
+							"length": 2
+						}
+					},
+					{
+						"content": "Birth",
+						"polygon": [
+							491,
+							414,
+							557,
+							414,
+							557,
+							447,
+							491,
+							447
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 388,
+							"length": 5
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							564,
+							414,
+							581,
+							414,
+							581,
+							447,
+							564,
+							447
+						],
+						"confidence": 0.976,
+						"span": {
+							"offset": 394,
+							"length": 1
+						}
+					},
+					{
+						"content": "19/07/1992",
+						"polygon": [
+							704,
+							408,
+							895,
+							408,
+							895,
+							446,
+							704,
+							446
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 396,
+							"length": 10
+						}
+					},
+					{
+						"content": "تاريخ",
+						"polygon": [
+							1111,
+							417,
+							1182,
+							417,
+							1182,
+							458,
+							1111,
+							458
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 407,
+							"length": 5
+						}
+					},
+					{
+						"content": "الميلاد:",
+						"polygon": [
+							1011,
+							417,
+							1100,
+							417,
+							1100,
+							459,
+							1012,
+							459
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 413,
+							"length": 8
+						}
+					},
+					{
+						"content": "الجنسية:",
+						"polygon": [
+							1062,
+							463,
+							1180,
+							464,
+							1180,
+							509,
+							1062,
+							509
+						],
+						"confidence": 0.975,
+						"span": {
+							"offset": 422,
+							"length": 8
+						}
+					},
+					{
+						"content": "جمهورية",
+						"polygon": [
+							929,
+							463,
+							1051,
+							463,
+							1051,
+							509,
+							929,
+							509
+						],
+						"confidence": 0.984,
+						"span": {
+							"offset": 431,
+							"length": 7
+						}
+					},
+					{
+						"content": "بنغلاديش",
+						"polygon": [
+							824,
+							463,
+							920,
+							463,
+							920,
+							509,
+							824,
+							509
+						],
+						"confidence": 0.972,
+						"span": {
+							"offset": 439,
+							"length": 8
+						}
+					},
+					{
+						"content": "الشعبية",
+						"polygon": [
+							702,
+							462,
+							803,
+							463,
+							803,
+							509,
+							701,
+							508
+						],
+						"confidence": 0.983,
+						"span": {
+							"offset": 448,
+							"length": 7
+						}
+					},
+					{
+						"content": "Nationality:",
+						"polygon": [
+							377,
+							518,
+							561,
+							517,
+							561,
+							554,
+							376,
+							553
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 456,
+							"length": 12
+						}
+					},
+					{
+						"content": "Bangladesh",
+						"polygon": [
+							571,
+							517,
+							742,
+							518,
+							742,
+							554,
+							571,
+							554
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 469,
+							"length": 10
+						}
+					},
+					{
+						"content": "تاريخ",
+						"polygon": [
+							684,
+							568,
+							750,
+							568,
+							750,
+							609,
+							683,
+							608
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 480,
+							"length": 5
+						}
+					},
+					{
+						"content": "الاصدار",
+						"polygon": [
+							580,
+							567,
+							672,
+							568,
+							672,
+							608,
+							579,
+							606
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 486,
+							"length": 7
+						}
+					},
+					{
+						"content": "/",
+						"polygon": [
+							549,
+							567,
+							571,
+							567,
+							571,
+							606,
+							548,
+							606
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 494,
+							"length": 1
+						}
+					},
+					{
+						"content": "Issuing",
+						"polygon": [
+							376,
+							566,
+							475,
+							567,
+							475,
+							604,
+							375,
+							603
+						],
+						"confidence": 0.66,
+						"span": {
+							"offset": 496,
+							"length": 7
+						}
+					},
+					{
+						"content": "Date",
+						"polygon": [
+							483,
+							567,
+							541,
+							567,
+							541,
+							606,
+							483,
+							604
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 504,
+							"length": 4
+						}
+					},
+					{
+						"content": "27/05/2022",
+						"polygon": [
+							502,
+							612,
+							660,
+							613,
+							660,
+							647,
+							502,
+							646
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 509,
+							"length": 10
+						}
+					},
+					{
+						"content": "تاريخ",
+						"polygon": [
+							668,
+							649,
+							735,
+							649,
+							735,
+							689,
+							668,
+							687
+						],
+						"confidence": 0.971,
+						"span": {
+							"offset": 520,
+							"length": 5
+						}
+					},
+					{
+						"content": "الانتهاء",
+						"polygon": [
+							566,
+							648,
+							657,
+							649,
+							657,
+							687,
+							565,
+							686
+						],
+						"confidence": 0.949,
+						"span": {
+							"offset": 526,
+							"length": 8
+						}
+					},
+					{
+						"content": "/",
+						"polygon": [
+							536,
+							648,
+							556,
+							648,
+							556,
+							686,
+							535,
+							686
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 535,
+							"length": 1
+						}
+					},
+					{
+						"content": "Expiry",
+						"polygon": [
+							377,
+							646,
+							461,
+							647,
+							460,
+							684,
+							376,
+							683
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 537,
+							"length": 6
+						}
+					},
+					{
+						"content": "Date",
+						"polygon": [
+							468,
+							647,
+							528,
+							648,
+							528,
+							686,
+							468,
+							684
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 544,
+							"length": 4
+						}
+					},
+					{
+						"content": "26/05/2024",
+						"polygon": [
+							501,
+							692,
+							660,
+							693,
+							660,
+							725,
+							500,
+							724
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 549,
+							"length": 10
+						}
+					},
+					{
+						"content": "UNITED",
+						"polygon": [
+							390,
+							715,
+							446,
+							716,
+							445,
+							738,
+							389,
+							738
+						],
+						"confidence": 0.382,
+						"span": {
+							"offset": 560,
+							"length": 6
+						}
+					},
+					{
+						"content": "ARAB",
+						"polygon": [
+							450,
+							716,
+							491,
+							716,
+							490,
+							737,
+							450,
+							738
+						],
+						"confidence": 0.632,
+						"span": {
+							"offset": 567,
+							"length": 4
+						}
+					},
+					{
+						"content": "EMIRATES",
+						"polygon": [
+							495,
+							716,
+							573,
+							717,
+							572,
+							738,
+							494,
+							737
+						],
+						"confidence": 0.631,
+						"span": {
+							"offset": 572,
+							"length": 8
+						}
+					},
+					{
+						"content": "TOTALLYTON",
+						"polygon": [
+							577,
+							717,
+							786,
+							714,
+							786,
+							740,
+							577,
+							738
+						],
+						"confidence": 0.092,
+						"span": {
+							"offset": 581,
+							"length": 10
+						}
+					},
+					{
+						"content": "19/07",
+						"polygon": [
+							829,
+							660,
+							944,
+							661,
+							944,
+							705,
+							829,
+							704
+						],
+						"confidence": 0.977,
+						"span": {
+							"offset": 592,
+							"length": 5
+						}
+					},
+					{
+						"content": "الجنس",
+						"polygon": [
+							1114,
+							599,
+							1181,
+							600,
+							1181,
+							643,
+							1113,
+							643
+						],
+						"confidence": 0.97,
+						"span": {
+							"offset": 598,
+							"length": 5
+						}
+					},
+					{
+						"content": ":",
+						"polygon": [
+							1068,
+							599,
+							1091,
+							599,
+							1091,
+							643,
+							1068,
+							643
+						],
+						"confidence": 0.973,
+						"span": {
+							"offset": 604,
+							"length": 1
+						}
+					},
+					{
+						"content": "ذكر",
+						"polygon": [
+							1009,
+							598,
+							1059,
+							598,
+							1059,
+							642,
+							1009,
+							643
+						],
+						"confidence": 0.949,
+						"span": {
+							"offset": 606,
+							"length": 3
+						}
+					},
+					{
+						"content": "Sex:",
+						"polygon": [
+							1002,
+							655,
+							1080,
+							657,
+							1080,
+							689,
+							1001,
+							687
+						],
+						"confidence": 0.882,
+						"span": {
+							"offset": 610,
+							"length": 4
+						}
+					},
+					{
+						"content": "M",
+						"polygon": [
+							1096,
+							658,
+							1127,
+							658,
+							1127,
+							690,
+							1095,
+							690
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 615,
+							"length": 1
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "UNITED ARAB EMIRATES",
+						"polygon": [
+							35,
+							44,
+							502,
+							44,
+							502,
+							81,
+							35,
+							81
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "FEDERAL AUTHORITY FOR IDENTITY &",
+						"polygon": [
+							39,
+							82,
+							500,
+							82,
+							500,
+							106,
+							39,
+							106
+						],
+						"spans": [
+							{
+								"offset": 21,
+								"length": 32
+							}
+						]
+					},
+					{
+						"content": "CITIZENSHIP CUSTOMS & PORT SECURITY",
+						"polygon": [
+							40,
+							106,
+							498,
+							106,
+							498,
+							131,
+							40,
+							131
+						],
+						"spans": [
+							{
+								"offset": 54,
+								"length": 35
+							}
+						]
+					},
+					{
+						"content": "Resident Identity Card",
+						"polygon": [
+							73,
+							149,
+							412,
+							149,
+							412,
+							183,
+							73,
+							183
+						],
+						"spans": [
+							{
+								"offset": 90,
+								"length": 22
+							}
+						]
+					},
+					{
+						"content": "التوقيع / Signature",
+						"polygon": [
+							66,
+							706,
+							330,
+							707,
+							330,
+							747,
+							66,
+							745
+						],
+						"spans": [
+							{
+								"offset": 113,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "الإمارات العربية المنتجة",
+						"polygon": [
+							556,
+							170,
+							664,
+							169,
+							665,
+							197,
+							556,
+							197
+						],
+						"spans": [
+							{
+								"offset": 133,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "الإمارات العربية المتحدة",
+						"polygon": [
+							713,
+							34,
+							1183,
+							38,
+							1182,
+							90,
+							712,
+							86
+						],
+						"spans": [
+							{
+								"offset": 158,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "الهيئة الإنحـادية للهوية",
+						"polygon": [
+							715,
+							87,
+							1182,
+							85,
+							1182,
+							112,
+							715,
+							114
+						],
+						"spans": [
+							{
+								"offset": 183,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "والجنسية والجمارك وأمن المنافذ",
+						"polygon": [
+							716,
+							109,
+							1182,
+							110,
+							1182,
+							138,
+							716,
+							136
+						],
+						"spans": [
+							{
+								"offset": 208,
+								"length": 30
+							}
+						]
+					},
+					{
+						"content": "بطاقة هوية مقيم",
+						"polygon": [
+							876,
+							141,
+							1082,
+							139,
+							1082,
+							183,
+							877,
+							186
+						],
+						"spans": [
+							{
+								"offset": 239,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "رقم الهوية / ID Number",
+						"polygon": [
+							454,
+							210,
+							789,
+							206,
+							790,
+							249,
+							454,
+							252
+						],
+						"spans": [
+							{
+								"offset": 255,
+								"length": 22
+							}
+						]
+					},
+					{
+						"content": "784-1992-2456563-2",
+						"polygon": [
+							430,
+							257,
+							811,
+							257,
+							811,
+							297,
+							430,
+							297
+						],
+						"spans": [
+							{
+								"offset": 278,
+								"length": 18
+							}
+						]
+					},
+					{
+						"content": "الاسم: نعيم الاسلام شوهان نظر الاسلام",
+						"polygon": [
+							674,
+							302,
+							1181,
+							302,
+							1181,
+							347,
+							674,
+							347
+						],
+						"spans": [
+							{
+								"offset": 297,
+								"length": 37
+							}
+						]
+					},
+					{
+						"content": "Name: Naimul Islam Sohan Nazrul Islam Mannan",
+						"polygon": [
+							375,
+							353,
+							1107,
+							353,
+							1107,
+							387,
+							375,
+							387
+						],
+						"spans": [
+							{
+								"offset": 335,
+								"length": 44
+							}
+						]
+					},
+					{
+						"content": "Date of Birth :",
+						"polygon": [
+							376,
+							414,
+							580,
+							414,
+							580,
+							447,
+							376,
+							447
+						],
+						"spans": [
+							{
+								"offset": 380,
+								"length": 15
+							}
+						]
+					},
+					{
+						"content": "19/07/1992",
+						"polygon": [
+							704,
+							408,
+							895,
+							408,
+							895,
+							445,
+							704,
+							446
+						],
+						"spans": [
+							{
+								"offset": 396,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "تاريخ الميلاد:",
+						"polygon": [
+							1011,
+							417,
+							1182,
+							416,
+							1182,
+							458,
+							1011,
+							459
+						],
+						"spans": [
+							{
+								"offset": 407,
+								"length": 14
+							}
+						]
+					},
+					{
+						"content": "الجنسية: جمهورية بنغلاديش الشعبية",
+						"polygon": [
+							701,
+							462,
+							1179,
+							463,
+							1179,
+							509,
+							701,
+							508
+						],
+						"spans": [
+							{
+								"offset": 422,
+								"length": 33
+							}
+						]
+					},
+					{
+						"content": "Nationality: Bangladesh",
+						"polygon": [
+							376,
+							517,
+							741,
+							518,
+							741,
+							554,
+							376,
+							554
+						],
+						"spans": [
+							{
+								"offset": 456,
+								"length": 23
+							}
+						]
+					},
+					{
+						"content": "تاريخ الاصدار / Issuing Date",
+						"polygon": [
+							375,
+							565,
+							750,
+							568,
+							750,
+							609,
+							375,
+							605
+						],
+						"spans": [
+							{
+								"offset": 480,
+								"length": 28
+							}
+						]
+					},
+					{
+						"content": "27/05/2022",
+						"polygon": [
+							502,
+							612,
+							660,
+							613,
+							660,
+							646,
+							502,
+							645
+						],
+						"spans": [
+							{
+								"offset": 509,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "تاريخ الانتهاء / Expiry Date",
+						"polygon": [
+							377,
+							646,
+							734,
+							649,
+							734,
+							689,
+							376,
+							685
+						],
+						"spans": [
+							{
+								"offset": 520,
+								"length": 28
+							}
+						]
+					},
+					{
+						"content": "26/05/2024",
+						"polygon": [
+							501,
+							692,
+							660,
+							693,
+							660,
+							725,
+							500,
+							724
+						],
+						"spans": [
+							{
+								"offset": 549,
+								"length": 10
+							}
+						]
+					},
+					{
+						"content": "UNITED ARAB EMIRATES TOTALLYTON",
+						"polygon": [
+							390,
+							713,
+							786,
+							714,
+							786,
+							740,
+							389,
+							737
+						],
+						"spans": [
+							{
+								"offset": 560,
+								"length": 31
+							}
+						]
+					},
+					{
+						"content": "19/07",
+						"polygon": [
+							829,
+							660,
+							944,
+							661,
+							944,
+							704,
+							829,
+							704
+						],
+						"spans": [
+							{
+								"offset": 592,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "الجنس : ذكر",
+						"polygon": [
+							1009,
+							598,
+							1181,
+							599,
+							1181,
+							642,
+							1009,
+							642
+						],
+						"spans": [
+							{
+								"offset": 598,
+								"length": 11
+							}
+						]
+					},
+					{
+						"content": "Sex: M",
+						"polygon": [
+							1002,
+							654,
+							1127,
+							658,
+							1126,
+							690,
+							1001,
+							687
+						],
+						"spans": [
+							{
+								"offset": 610,
+								"length": 6
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 616
+					}
+				]
+			}
+		],
+		"tables": [],
+		"paragraphs": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 89
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							35,
+							44,
+							502,
+							44,
+							502,
+							131,
+							35,
+							131
+						]
+					}
+				],
+				"content": "UNITED ARAB EMIRATES FEDERAL AUTHORITY FOR IDENTITY & CITIZENSHIP CUSTOMS & PORT SECURITY"
+			},
+			{
+				"spans": [
+					{
+						"offset": 90,
+						"length": 22
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							73,
+							149,
+							412,
+							149,
+							412,
+							183,
+							73,
+							183
+						]
+					}
+				],
+				"content": "Resident Identity Card"
+			},
+			{
+				"spans": [
+					{
+						"offset": 113,
+						"length": 19
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							66,
+							706,
+							330,
+							707,
+							330,
+							747,
+							66,
+							745
+						]
+					}
+				],
+				"content": "التوقيع / Signature"
+			},
+			{
+				"spans": [
+					{
+						"offset": 133,
+						"length": 24
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							556,
+							170,
+							664,
+							169,
+							665,
+							197,
+							556,
+							197
+						]
+					}
+				],
+				"content": "الإمارات العربية المنتجة"
+			},
+			{
+				"spans": [
+					{
+						"offset": 158,
+						"length": 96
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							713,
+							34,
+							1183,
+							38,
+							1182,
+							188,
+							711,
+							185
+						]
+					}
+				],
+				"content": "الإمارات العربية المتحدة الهيئة الإنحـادية للهوية والجنسية والجمارك وأمن المنافذ بطاقة هوية مقيم"
+			},
+			{
+				"spans": [
+					{
+						"offset": 255,
+						"length": 22
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							454,
+							210,
+							789,
+							206,
+							790,
+							249,
+							454,
+							252
+						]
+					}
+				],
+				"content": "رقم الهوية / ID Number"
+			},
+			{
+				"spans": [
+					{
+						"offset": 278,
+						"length": 18
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							430,
+							257,
+							811,
+							257,
+							811,
+							297,
+							430,
+							297
+						]
+					}
+				],
+				"content": "784-1992-2456563-2"
+			},
+			{
+				"spans": [
+					{
+						"offset": 297,
+						"length": 37
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							674,
+							302,
+							1181,
+							302,
+							1181,
+							347,
+							674,
+							347
+						]
+					}
+				],
+				"content": "الاسم: نعيم الاسلام شوهان نظر الاسلام"
+			},
+			{
+				"spans": [
+					{
+						"offset": 335,
+						"length": 44
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							375,
+							353,
+							1107,
+							353,
+							1107,
+							387,
+							375,
+							387
+						]
+					}
+				],
+				"content": "Name: Naimul Islam Sohan Nazrul Islam Mannan"
+			},
+			{
+				"spans": [
+					{
+						"offset": 380,
+						"length": 15
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							376,
+							414,
+							580,
+							414,
+							580,
+							447,
+							376,
+							447
+						]
+					}
+				],
+				"content": "Date of Birth :"
+			},
+			{
+				"spans": [
+					{
+						"offset": 396,
+						"length": 10
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							704,
+							408,
+							895,
+							408,
+							895,
+							445,
+							704,
+							446
+						]
+					}
+				],
+				"content": "19/07/1992"
+			},
+			{
+				"spans": [
+					{
+						"offset": 407,
+						"length": 14
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1011,
+							417,
+							1182,
+							416,
+							1182,
+							458,
+							1011,
+							459
+						]
+					}
+				],
+				"content": "تاريخ الميلاد:"
+			},
+			{
+				"spans": [
+					{
+						"offset": 422,
+						"length": 33
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							701,
+							462,
+							1179,
+							463,
+							1179,
+							509,
+							701,
+							508
+						]
+					}
+				],
+				"content": "الجنسية: جمهورية بنغلاديش الشعبية"
+			},
+			{
+				"spans": [
+					{
+						"offset": 456,
+						"length": 23
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							376,
+							517,
+							741,
+							518,
+							741,
+							554,
+							376,
+							554
+						]
+					}
+				],
+				"content": "Nationality: Bangladesh"
+			},
+			{
+				"spans": [
+					{
+						"offset": 480,
+						"length": 28
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							375,
+							565,
+							750,
+							568,
+							750,
+							609,
+							375,
+							605
+						]
+					}
+				],
+				"content": "تاريخ الاصدار / Issuing Date"
+			},
+			{
+				"spans": [
+					{
+						"offset": 509,
+						"length": 10
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							502,
+							612,
+							660,
+							613,
+							660,
+							646,
+							502,
+							645
+						]
+					}
+				],
+				"content": "27/05/2022"
+			},
+			{
+				"spans": [
+					{
+						"offset": 520,
+						"length": 28
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							377,
+							646,
+							734,
+							649,
+							734,
+							689,
+							376,
+							685
+						]
+					}
+				],
+				"content": "تاريخ الانتهاء / Expiry Date"
+			},
+			{
+				"spans": [
+					{
+						"offset": 549,
+						"length": 10
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							501,
+							692,
+							660,
+							693,
+							660,
+							725,
+							500,
+							724
+						]
+					}
+				],
+				"content": "26/05/2024"
+			},
+			{
+				"spans": [
+					{
+						"offset": 560,
+						"length": 31
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							390,
+							711,
+							786,
+							714,
+							786,
+							740,
+							389,
+							737
+						]
+					}
+				],
+				"content": "UNITED ARAB EMIRATES TOTALLYTON"
+			},
+			{
+				"spans": [
+					{
+						"offset": 592,
+						"length": 5
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							829,
+							660,
+							944,
+							661,
+							944,
+							704,
+							829,
+							704
+						]
+					}
+				],
+				"content": "19/07"
+			},
+			{
+				"spans": [
+					{
+						"offset": 598,
+						"length": 11
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1009,
+							598,
+							1181,
+							599,
+							1181,
+							642,
+							1009,
+							642
+						]
+					}
+				],
+				"content": "الجنس : ذكر"
+			},
+			{
+				"spans": [
+					{
+						"offset": 610,
+						"length": 6
+					}
+				],
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							1002,
+							654,
+							1127,
+							658,
+							1126,
+							690,
+							1001,
+							687
+						]
+					}
+				],
+				"content": "Sex: M"
+			}
+		],
+		"styles": [],
+		"documents": [
+			{
+				"docType": "eid-front-v1",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							1220,
+							0,
+							1220,
+							770,
+							0,
+							770
+						]
+					}
+				],
+				"fields": {
+					"card-type": {
+						"type": "string",
+						"valueString": "Resident Identity Card",
+						"content": "Resident Identity Card",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									73,
+									149,
+									413,
+									149,
+									413,
+									184,
+									73,
+									184
+								]
+							}
+						],
+						"confidence": 0.798,
+						"spans": [
+							{
+								"offset": 90,
+								"length": 22
+							}
+						]
+					},
+					"id-number": {
+						"type": "string",
+						"valueString": "784-1992-2456563-2",
+						"content": "784-1992-2456563-2",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									430,
+									258,
+									812,
+									257,
+									812,
+									297,
+									430,
+									298
+								]
+							}
+						],
+						"confidence": 0.804,
+						"spans": [
+							{
+								"offset": 278,
+								"length": 18
+							}
+						]
+					},
+					"full-name": {
+						"type": "string",
+						"valueString": "Naimul Islam Sohan Nazrul Islam Mannan",
+						"content": "Naimul Islam Sohan Nazrul Islam Mannan",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									492,
+									353,
+									1107,
+									353,
+									1107,
+									388,
+									492,
+									388
+								]
+							}
+						],
+						"confidence": 0.622,
+						"spans": [
+							{
+								"offset": 341,
+								"length": 38
+							}
+						]
+					},
+					"date_of_birth": {
+						"type": "date",
+						"valueDate": "1992-07-19",
+						"content": "19/07/1992",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									704,
+									408,
+									895,
+									408,
+									895,
+									446,
+									704,
+									446
+								]
+							}
+						],
+						"confidence": 0.859,
+						"spans": [
+							{
+								"offset": 396,
+								"length": 10
+							}
+						]
+					},
+					"nationality": {
+						"type": "string",
+						"valueString": "Bangladesh",
+						"content": "Bangladesh",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									571,
+									517,
+									742,
+									518,
+									742,
+									554,
+									571,
+									554
+								]
+							}
+						],
+						"confidence": 0.857,
+						"spans": [
+							{
+								"offset": 469,
+								"length": 10
+							}
+						]
+					},
+					"issue_date": {
+						"type": "date",
+						"valueDate": "2022-05-27",
+						"content": "27/05/2022",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									502,
+									612,
+									660,
+									613,
+									660,
+									647,
+									502,
+									646
+								]
+							}
+						],
+						"confidence": 0.871,
+						"spans": [
+							{
+								"offset": 509,
+								"length": 10
+							}
+						]
+					},
+					"expiry_date": {
+						"type": "date",
+						"valueDate": "2024-05-26",
+						"content": "26/05/2024",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									500,
+									692,
+									660,
+									693,
+									660,
+									725,
+									500,
+									724
+								]
+							}
+						],
+						"confidence": 0.857,
+						"spans": [
+							{
+								"offset": 549,
+								"length": 10
+							}
+						]
+					},
+					"sex": {
+						"type": "string",
+						"valueString": "M",
+						"content": "M",
+						"boundingRegions": [
+							{
+								"pageNumber": 1,
+								"polygon": [
+									1095,
+									658,
+									1127,
+									658,
+									1127,
+									690,
+									1095,
+									690
+								]
+							}
+						],
+						"confidence": 0.861,
+						"spans": [
+							{
+								"offset": 615,
+								"length": 1
+							}
+						]
+					}
+				},
+				"confidence": 0.99,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 616
+					}
+				]
+			}
+		],
+		"contentFormat": "text",
+		"sections": [
+			{
+				"spans": [
+					{
+						"offset": 0,
+						"length": 616
+					}
+				],
+				"elements": [
+					"/paragraphs/0",
+					"/paragraphs/1",
+					"/figures/0",
+					"/figures/1",
+					"/figures/2",
+					"/paragraphs/2",
+					"/figures/3",
+					"/paragraphs/4",
+					"/paragraphs/5",
+					"/paragraphs/6",
+					"/paragraphs/7",
+					"/paragraphs/8",
+					"/paragraphs/9",
+					"/paragraphs/10",
+					"/paragraphs/11",
+					"/paragraphs/12",
+					"/paragraphs/13",
+					"/paragraphs/14",
+					"/paragraphs/15",
+					"/paragraphs/16",
+					"/paragraphs/17",
+					"/paragraphs/18",
+					"/figures/4",
+					"/paragraphs/20",
+					"/paragraphs/21"
+				]
+			}
+		],
+		"figures": [
+			{
+				"id": "1.1",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							42,
+							219,
+							358,
+							219,
+							359,
+							541,
+							43,
+							542
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 112,
+						"length": 0
+					}
+				]
+			},
+			{
+				"id": "1.2",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							67,
+							603,
+							344,
+							602,
+							345,
+							666,
+							67,
+							666
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 112,
+						"length": 0
+					}
+				]
+			},
+			{
+				"id": "1.3",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							67,
+							713,
+							232,
+							713,
+							232,
+							742,
+							67,
+							742
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 112,
+						"length": 0
+					}
+				]
+			},
+			{
+				"id": "1.4",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							539,
+							40,
+							680,
+							40,
+							680,
+							204,
+							539,
+							204
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 133,
+						"length": 24
+					}
+				],
+				"elements": [
+					"/paragraphs/3"
+				]
+			},
+			{
+				"id": "1.5",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							826,
+							587,
+							945,
+							587,
+							945,
+							713,
+							826,
+							713
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 592,
+						"length": 5
+					}
+				],
+				"elements": [
+					"/paragraphs/19"
+				]
+			}
+		]
+	}
+}
